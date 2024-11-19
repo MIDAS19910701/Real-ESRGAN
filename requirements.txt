@@ -1,7 +1,7 @@
-numpy==1.26.1
+numpy
 opencv-python
 Pillow
-torch==2.0.0
-torchvision==0.15.1
+torch
+torchvision
 tqdm
 huggingface-hub
